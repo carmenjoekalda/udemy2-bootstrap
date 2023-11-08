@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+.headerMain {
+    margin-bottom: 75px;
+    background-color: #222;
+    background: no-repeat center center;
+    background-size: cover;
+    background-image: url('http://via.placeholder.com/350x150');
+}
+
+.headingtext {
+    color: white;
+    padding: 150px 0;
+}
